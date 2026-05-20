@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f2937&height=220&section=header&text=Numan%20Subhani&fontSize=54&fontColor=58A6FF&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Django%20%26%20FastAPI&descSize=18&descAlignY=58&descColor=C9D1D9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:111827,100:1F2937&text=Numan%20Subhani&fontColor=58A6FF&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Django%20%26%20FastAPI&descAlignY=58&descSize=18&descColor=C9D1D9&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;AI-Powered+Applications+%26+Automation;Django+%7C+FastAPI+%7C+React+%7C+Docker;Open+to+Remote+Work+%26+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;AI-Powered+Applications+%26+Automation;Django+%7C+FastAPI+%7C+React+%7C+Docker;Open+to+Remote+Work+%26+Collaboration)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-numan-subhani-5663072ab)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numanubhani)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noumansubhani01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/MorpheusX-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.morpheusx.net/)
 
@@ -19,7 +19,11 @@
 
 # ⚡ About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<div align="center">
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+</div>
 
 ```python
 class NumanSubhani:
@@ -69,11 +73,11 @@ class NumanSubhani:
 
 ### 🚀 What I Do
 
-- 🔧 Build scalable backend systems and production-ready APIs  
-- 🤖 Develop AI-powered applications using Deep Learning  
-- 🌐 Integrate modern frontend technologies with robust backend architecture  
-- ☁️ Explore cloud infrastructure, DevOps pipelines, and automation  
-- 🤝 Open to freelance, remote work, and collaborations  
+- 🔧 Build scalable backend systems and production-ready REST APIs  
+- 🤖 Develop AI-powered applications using Deep Learning & Computer Vision  
+- 🌐 Integrate frontend technologies with robust backend architecture  
+- ☁️ Explore cloud infrastructure, Docker, and DevOps workflows  
+- 🤝 Open to remote work, freelance projects, and collaborations  
 
 ---
 
@@ -81,33 +85,21 @@ class NumanSubhani:
 
 <div align="center">
 
-### ⚙️ Backend & Frontend
+## ⚙️ Backend & Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,nextjs" />
 
-<br/>
+<br/><br/>
 
-### 🧠 AI / Machine Learning
+## 🧠 AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-<br/>
+<br/><br/>
 
-### 🗄️ Database & DevOps
+## 🗄️ Database & DevOps
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github" />
 
 </div>
 
@@ -117,7 +109,7 @@ class NumanSubhani:
 
 <div align="center">
 
-## 🌟 MorpheusX
+# 🌟 MorpheusX
 
 ### 🔗 https://www.morpheusx.net/
 
@@ -138,7 +130,7 @@ class NumanSubhani:
 
 <div align="center">
 
-## 🧠 AI-Powered Classification for Cheating Detection in Offline Examinations
+# 🧠 AI-Powered Classification for Cheating Detection in Offline Examinations
 
 ### Using Deep Learning Techniques with CUI Dataset
 
@@ -165,7 +157,7 @@ International Journal of Innovative Science and Technology (IJIST)
 
 <div align="center">
 
-[![Read Research Paper](https://img.shields.io/badge/Read%20Research%20Paper-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://journal.50sea.com/index.php/IJIST/article/download/1048/1724?inline=1)
+[![Read Research Paper](https://img.shields.io/badge/Read%20Research%20Paper-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://journal.50sea.com/index.php/IJIST/article/download/1048/1724?inline=1)
 
 </div>
 
@@ -187,7 +179,7 @@ International Journal of Innovative Science and Technology (IJIST)
 
 <div align="center">
 
-| Certification | Organization |
+| 🏅 Certification | 🏢 Organization |
 |:---|:---:|
 | Artificial Intelligence | Xeven Solutions |
 | Data Science | SimpliLearn |
@@ -204,13 +196,17 @@ International Journal of Innovative Science and Technology (IJIST)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=numanubhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanubhani&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=numanubhani&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numanubhani&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -229,7 +225,7 @@ International Journal of Innovative Science and Technology (IJIST)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F2937,50:111827,100:0D1117" />
 
 ### ✨ "Great software is built when logic meets creativity."
 

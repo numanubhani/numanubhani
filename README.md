@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:111827,100:1F2937&text=Numan%20Subhani&fontColor=58A6FF&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Engineer%20%7C%20Django%20%26%20FastAPI&descAlignY=58&descSize=18&descColor=C9D1D9"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&pause=99999&color=58A6FF&center=true&vCenter=true&width=900&height=90&lines=Numan+Subhani" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=99999&color=C9D1D9&center=true&vCenter=true&width=900&height=40&lines=Backend+Developer+%7C+AI+Engineer+%7C+Django+%26+FastAPI" />
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;AI-Powered+Applications+%26+Automation;Django+%7C+FastAPI+%7C+React+%7C+Docker;Open+to+Remote+Work+%26+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;AI-Powered+Applications+%26+Automation;Django+%7C+FastAPI+%7C+React+%7C+Docker;Open+to+Remote+Work+%26+Collaboration)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -17,12 +20,6 @@
 ---
 
 # ⚡ About Me
-
-<div align="center">
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-</div>
 
 ```python
 class NumanSubhani:
@@ -224,9 +221,13 @@ International Journal of Innovative Science and Technology (IJIST)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F2937,50:111827,100:0D1117" />
+<br/>
 
-### ✨ "Great software is built when logic meets creativity."
+![Profile Views](https://komarev.com/ghpvc/?username=numanubhani&label=Profile+Views&color=58a6ff&style=for-the-badge)
+
+<br/><br/>
+
+### ✨ *"Great software is built when logic meets creativity."*
 
 ### — Numan Subhani
 

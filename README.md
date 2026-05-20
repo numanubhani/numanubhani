@@ -1,183 +1,113 @@
 <div align="center">
 
-# 🚀 Numan Subhani
+# Numan Subhani
 
-### Backend Developer • AI Engineer • Django & FastAPI Developer
+**Backend Developer · AI Engineer · Django & FastAPI**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+React;Building+Scalable+Applications" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-numan-subhani-5663072ab)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:noumansubhani01@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+## About
 
-# 💫 About Me
+Backend developer with a strong foundation in Python ecosystems — Django, FastAPI, and Flask — and a growing focus on AI-powered application development. I enjoy designing clean APIs, building scalable server-side architectures, and bridging machine learning models with production systems.
 
-<table>
-<tr>
-<td>
-
-```yaml
-Name: Numan Subhani
-
-Role: Backend Developer
-
-Languages:
-  - Python
-
-Frameworks:
-  - Django
-  - FastAPI
-  - Flask
-
-Frontend:
-  - React
-  - Next.js
-
-Interests:
-  - Machine Learning
-  - Artificial Intelligence
-  - System Design
-
-Current Focus:
-  - Scalable Backend Systems
-  - AI Powered Applications
-```
-
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-- 💻 Passionate about Backend Engineering
-- 🤖 Exploring AI & Deep Learning
-- 🌱 Currently improving System Design skills
-- 🚀 Love building production-ready applications
-- ⚡ Strong interest in scalable architectures
+- Passionate about backend engineering and system design
+- Published AI research with **96% classification accuracy**
+- Exploring cloud deployment, DevOps, and LLM integrations
+- Open to remote collaboration and freelance opportunities
 
 ---
 
-# 🌐 Connect With Me
+## Tech Stack
 
-<p align="left">
+**Backend**
+`Python` `Django` `FastAPI` `Flask` `REST APIs`
 
-<a href="https://www.linkedin.com/in/sheikh-numan-subhani-5663072ab">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+**Frontend**
+`React` `Next.js`
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+**AI / ML**
+`TensorFlow` `PyTorch` `ResNet50` `OpenCV`
 
-<a href="mailto:noumansubhani01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
+**Data & DevOps**
+`MongoDB` `MySQL` `Docker` `Git` `GitHub`
 
 ---
 
-# ⚒️ Tech Stack
+## Featured Project
 
-<p align="center">
+### [MorpheusX](https://www.morpheusx.net/)
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,nextjs,mongodb,mysql,git,github,tensorflow,pytorch,docker" />
+A production-ready web application built with a modern, scalable backend architecture.
 
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🌟 MorpheusX
-
-🔗 https://www.morpheusx.net/
-
-### Features
-
-- Modern scalable backend architecture
-- REST API integrations
-- Secure authentication systems
-- Frontend & backend integration
-- Production deployment workflows
+- Scalable backend with RESTful API design
+- Secure authentication and authorization systems
+- Full frontend–backend integration
+- Deployed to production with CI/CD workflows
 
 ---
 
-# 📚 Research Publication
+## Research Publication
 
-## 🧠 AI-Powered Classification for Cheating Detection in Offline Examinations Using Deep Learning Techniques with CUI Dataset
+**AI-Powered Classification for Cheating Detection in Offline Examinations Using Deep Learning Techniques with CUI Dataset**
 
-📄 Published in **International Journal of Innovative Science and Technology (IJIST)**
+*International Journal of Innovative Science and Technology (IJIST)*
 
-### Highlights
+| Metric | Detail |
+|---|---|
+| Model | ResNet50 |
+| Preprocessing | OpenCV |
+| Accuracy | **96%** |
+| Contribution | Reduces dependency on human invigilators |
 
-- Built using **ResNet50**
-- Image preprocessing with **OpenCV**
-- Achieved **96% accuracy**
-- Reduced dependency on human invigilators
-
-🔗 https://journal.50sea.com/index.php/IJIST/article/download/1048/1724?inline=1
-
----
-
-# 🎓 Education
-
-🎓 **Bachelor of Science in Computer Science (BSCS)**
-
-🏫 MNS University of Engineering & Technology (MNSUET)
-
-📊 CGPA: **3.447**
+[Read the paper →](https://journal.50sea.com/index.php/IJIST/article/download/1048/1724?inline=1)
 
 ---
 
-# 🏆 Certifications
+## Education
 
-- 🤖 Artificial Intelligence — Xeven Solutions
-- 📊 Data Science — SimpliLearn
-- 📈 Data Science — JTECH Solutions
-- 🐍 Python Essentials — Cisco
-- 💼 Freelancing — DigiSkills
-- 🌐 WordPress — DigiSkills
+**BS Computer Science** — MNS University of Engineering & Technology (MNSUET)
+CGPA: **3.447 / 4.00**
 
 ---
 
-# 📊 GitHub Analytics
+## Certifications
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
+| Certification | Issuer |
+|---|---|
+| Artificial Intelligence | Xeven Solutions |
+| Data Science | SimpliLearn |
+| Data Science | JTECH Solutions |
+| Python Essentials | Cisco |
+| Freelancing | DigiSkills |
+| WordPress Development | DigiSkills |
 
 ---
 
-# 🧠 Currently Learning
+## Currently Learning
 
-- Advanced Backend Architecture
-- AI Integration in Web Apps
-- Cloud Deployment & DevOps
-- Scalable API Design
+- Advanced backend architecture patterns
+- AI integration in production web apps
+- Cloud deployment & DevOps (AWS / Docker / CI-CD)
+- Scalable API design and distributed systems
 
 ---
 
-# 💡 Developer Quote
+## GitHub Analytics
 
 <div align="center">
 
-### *"Great software is built when logic meets creativity."*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -185,6 +115,6 @@ Current Focus:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+*"Great software is built when logic meets creativity."*
 
 </div>

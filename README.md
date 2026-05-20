@@ -1,118 +1,180 @@
-<h1 align="center">Hi 👋, I'm Numan Subhani</h1>
-<h3 align="center">Backend Developer | AI Enthusiast | Django Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+Enthusiast;Django+%26+FastAPI+Developer;Machine+Learning+Enthusiast" />
-</p>
+# 🚀 Numan Subhani
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### Backend Developer • AI Engineer • Django & FastAPI Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+React;Building+Scalable+Applications" />
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Django & FastAPI Projects**
-- 🌱 Learning **Advanced AI Integration & System Design**
-- 💬 Ask me about **Python, Django, Flask, FastAPI, React**
-- 🚀 Passionate about building scalable backend systems
-- ⚡ Fun fact: I love solving real-world problems using AI & Backend Development
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+# 💫 About Me
+
+```python
+class NumanSubhani:
+
+    def __init__(self):
+
+        self.role = "Backend Developer"
+
+        self.language = "Python"
+
+        self.frameworks = [
+            "Django",
+            "FastAPI",
+            "Flask"
+        ]
+
+        self.frontend = [
+            "React",
+            "Next.js"
+        ]
+
+        self.interests = [
+            "Machine Learning",
+            "AI",
+            "System Design"
+        ]
+
+    def current_focus(self):
+        return "Scalable Backend & AI Apps"
+```
+
+- 💻 Passionate about Backend Engineering
+- 🤖 Exploring AI & Deep Learning
+- 🌱 Currently improving System Design skills
+- 🚀 Love building production-ready applications
+- ⚡ Strong interest in scalable architectures
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/sheikh-numan-subhani-5663072ab">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="mailto:noumansubhani01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# ⚒️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nextjs,mongodb,mysql,git,github,tensorflow,pytorch" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,nextjs,mongodb,mysql,git,github,tensorflow,pytorch,docker" />
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Project
 
-### 🔹 SelectExpose Admin & Backend System
-- Built backend using Django with authentication & REST APIs
-- Developed CRUD operations and role-based access system
-- Created frontend pages using React / Next.js
-- Deployed backend on PythonAnywhere and frontend on Vercel
+## 🌟 MorpheusX
 
-🔗 https://selectexpose.pythonanywhere.com/admin/  
-🔗 https://se-gamma-olive.vercel.app/login
+🔗 https://www.morpheusx.net/
+
+### Features
+
+- Modern scalable backend architecture
+- REST API integrations
+- Secure authentication systems
+- Frontend & backend integration
+- Production deployment workflows
 
 ---
 
-### 🔹 AI-Powered Cheating Detection System
-- Developed a deep learning model using ResNet50
-- Used OpenCV for image preprocessing
-- Achieved 96% training accuracy
-- Reduced dependency on human proctors
+# 📚 Research Publication
 
-📄 Research Paper Published
+## 🧠 AI-Powered Classification for Cheating Detection in Offline Examinations Using Deep Learning Techniques with CUI Dataset
+
+📄 Published in **International Journal of Innovative Science and Technology (IJIST)**
+
+### Highlights
+
+- Built using **ResNet50**
+- Image preprocessing with **OpenCV**
+- Achieved **96% accuracy**
+- Reduced dependency on human invigilators
 
 🔗 https://journal.50sea.com/index.php/IJIST/article/download/1048/1724?inline=1
 
 ---
 
-## 📚 Research Publication
+# 🎓 Education
 
-### AI-Powered Classification for Cheating Detection in Offline Examinations Using Deep Learning Techniques with CUI Dataset
+🎓 **Bachelor of Science in Computer Science (BSCS)**
 
-Published in:
-**International Journal of Innovative Science and Technology (IJIST)**
+🏫 MNS University of Engineering & Technology (MNSUET)
 
-- Developed a ResNet50-based intelligent cheating detection system
-- Achieved 96% accuracy in classification
-- Focused on offline examination monitoring using Deep Learning
+📊 CGPA: **3.447**
 
 ---
 
-## 🎓 Education
+# 🏆 Certifications
 
-🎓 Bachelor of Science in Computer Science (BSCS)  
-🏫 MNS University of Engineering & Technology (MNSUET)  
-📊 CGPA: 3.447
-
----
-
-## 🏆 Certifications
-
-- Artificial Intelligence – Xeven Solutions
-- Data Science – SimpliLearn
-- Data Science – JTECH Solutions
-- Python Essentials 1 – Cisco
-- Freelancing – DigiSkills
-- WordPress – DigiSkills
+- 🤖 Artificial Intelligence — Xeven Solutions
+- 📊 Data Science — SimpliLearn
+- 📈 Data Science — JTECH Solutions
+- 🐍 Python Essentials — Cisco
+- 💼 Freelancing — DigiSkills
+- 🌐 WordPress — DigiSkills
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 💡 Quote
+# 🧠 Currently Learning
 
-> “Code is not just syntax — it's solving problems creatively.”
+- Advanced Backend Architecture
+- AI Integration in Web Apps
+- Cloud Deployment & DevOps
+- Scalable API Design
 
 ---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+### *"Great software is built when logic meets creativity."*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>

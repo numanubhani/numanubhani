@@ -14,36 +14,46 @@
 
 # 💫 About Me
 
-```python
-class NumanSubhani:
+<table>
+<tr>
+<td>
 
-    def __init__(self):
+```yaml
+Name: Numan Subhani
 
-        self.role = "Backend Developer"
+Role: Backend Developer
 
-        self.language = "Python"
+Languages:
+  - Python
 
-        self.frameworks = [
-            "Django",
-            "FastAPI",
-            "Flask"
-        ]
+Frameworks:
+  - Django
+  - FastAPI
+  - Flask
 
-        self.frontend = [
-            "React",
-            "Next.js"
-        ]
+Frontend:
+  - React
+  - Next.js
 
-        self.interests = [
-            "Machine Learning",
-            "AI",
-            "System Design"
-        ]
+Interests:
+  - Machine Learning
+  - Artificial Intelligence
+  - System Design
 
-    def current_focus(self):
-        return "Scalable Backend & AI Apps"
+Current Focus:
+  - Scalable Backend Systems
+  - AI Powered Applications
 ```
 
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 - 💻 Passionate about Backend Engineering
 - 🤖 Exploring AI & Deep Learning
 - 🌱 Currently improving System Design skills
